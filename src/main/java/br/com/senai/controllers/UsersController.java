@@ -1,7 +1,7 @@
 package br.com.senai.controllers;
 
 
-import br.com.senai.models.Brand;
+
 import br.com.senai.models.Users;
 import br.com.senai.repositories.UsersRepository;
 import org.springframework.beans.factory.annotation.Autowired;
